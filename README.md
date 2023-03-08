@@ -2,6 +2,8 @@
 
 ### Offering practical actionable support to data scientists who are making efforts to be responsible, while recognising why it is hard to do so.
 
+The course materials are given on this GitHub page, with the course available <a href = "https://learn.turing.ac.uk/course/view.php?id=25&section=0#section-1">here</a>.
+
 ## Course Summary
 <p> This course title "How learning to lie with data is essential to prevent AI from being sexist and racist." is intended to catch attention but also highlights the content of this course which intends to support data scientists looking to do responsible AI.
 The first part of the title comes from a book from 1954 titled "How to lie with statistics" which  has been brought back into consciousness through another book "Rebooting AI". The first part of this course presents elements of how data can be misleading, while providing concrete tips to identify and address these data issues.
